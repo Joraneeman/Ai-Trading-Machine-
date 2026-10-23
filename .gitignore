@@ -10,7 +10,7 @@ bin-release/
 # Executables
 *.swf
 *.air
-*.ipa
+*.ipa/Ai machine trader 
 *.apkai.trader2
 
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
